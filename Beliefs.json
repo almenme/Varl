@@ -293,7 +293,7 @@
     {
         "name": "Reciprocity",
         "type": "Enhancer",
-        "uniques": ["[+1 Gold] for each global follower following this religion"]
+        "uniques": ["[+1 Gold] for each [global follower] following this [religion]"]
     },
     {
         "name": "Reliquary",
