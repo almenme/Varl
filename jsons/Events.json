@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Stained Glass",
+        "text": "With the discovery of Stained Glass, you can decide to add Stained Glass to the places of worship, or not.",
+        "choices": [
+            {
+                "text": "Stained Glass is very useful to reveal the light.",
+                "uniques": ["Comment [The light has been revealed!]", "[-1 Gold] per [turns]", "[-1 Faith] per [turns]"]
+  
+                ]
+            },
+            {
+                "text": "No",
+                "uniques": ["Comment [It was too expensive anyways]"]
+  
+                ]
+            }
+        ]
+    }
+]
