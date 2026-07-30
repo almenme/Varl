@@ -6,7 +6,7 @@
 		    "maintenance": 4,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Philosophy",
-		    "uniques": ["Only available <when religion is enabled>", "[+1 Happiness] [in this city]", "1 [Copper] ore required to build"]
+		    "uniques": ["Only available <when religion is enabled>", "[+1 Happiness] [in this city]", "[1 Copper] ore required to build"]
 	},
     {
 		    "name": "Silver Temple",
@@ -15,7 +15,7 @@
 		    "maintenance": 7,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Philosophy",
-		    "uniques": ["Only available <when religion is enabled>", "[+2 Happiness] [in this city]", "1 [Silver] required to build"]
+		    "uniques": ["Only available <when religion is enabled>", "[+2 Happiness] [in this city]", "[1 Silver] required to build"]
 	},
     {
 		    "name": "Gold Temple",
@@ -24,7 +24,7 @@
 		    "maintenance": 11,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Philosophy",
-		    "uniques": ["Only available <when religion is enabled>", "[+3 Happiness] [in this city]", "1 [Gold Ore] required to build"]
+		    "uniques": ["Only available <when religion is enabled>", "[+3 Happiness] [in this city]", "[1 Gold Ore] required to build"]
 	 }
 ]
 
