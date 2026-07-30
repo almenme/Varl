@@ -1,0 +1,29 @@
+[
+    {
+		    "name": "Copper Temple",
+		    "faith": 3,
+		    "requiredBuilding": "Shrine",
+		    "maintenance": 4,
+		    "hurryCostModifier": 25,
+		    "requiredTech": "Philosophy",
+		    "uniques": ["Only available <when religion is enabled>", "[+1 Happiness] [in this city]", "Requires [Copper]"]
+	  },
+    {
+		    "name": "Silver Temple",
+		    "faith": 5,
+		    "requiredBuilding": "Shrine",
+		    "maintenance": 7,
+		    "hurryCostModifier": 25,
+		    "requiredTech": "Philosophy",
+		    "uniques": ["Only available <when religion is enabled>", "[+2 Happiness] [in this city]", "Requires [Silver]"]
+	  },
+    {
+		    "name": "Gold Temple",
+		    "faith": 8,
+		    "requiredBuilding": "Shrine",
+		    "maintenance": 11,
+		    "hurryCostModifier": 25,
+		    "requiredTech": "Philosophy",
+		    "uniques": ["Only available <when religion is enabled>", "[+3 Happiness] [in this city]", "Requires [Gold]"]
+	  }
+[
