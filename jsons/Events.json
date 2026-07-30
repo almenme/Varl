@@ -5,7 +5,7 @@
         "choices": [
             {
                 "text": "Stained Glass is very useful to reveal the light.",
-                "uniques": ["Comment [The light has been revealed!]", "[-3 Gold] for [Copper Temple]", "[-2 Gold] for [Temple]", "[-5 Gold] for [Gold Temple]","[-4 Gold] for [Silver Temple]","[+1 Faith] for [Temple]", "[+3 Faith] for [Silver Temple]","[+5 Faith] for [Gold Temple]" ,"[+2 Faith] for [Copper Temple]"]
+                "uniques": ["Comment [The light has been revealed!]", "[-3 Gold] from every [Copper Temple]", "[-2 Gold] from every [Temple]", "[-5 Gold] from every [Gold Temple]","[-4 Gold] from every [Silver Temple]","[+1 Faith] from every [Temple]", "[+3 Faith] from every [Silver Temple]","[+5 Faith] from every [Gold Temple]" ,"[+2 Faith] from every [Copper Temple]"]
             },
             {
                 "text": "No.",
