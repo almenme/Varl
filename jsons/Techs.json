@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Stained Glass",
+		"row": 5,
+		"prerequisites": ["Metal Casting"],
+		"uniques": ["Triggers a [Stained Glass] event."],
+		"quote": "'For me a stained glass window is a transparent partition between my heart and the heart of the world.'-Marc Chagall"
+	}
+]
+	
