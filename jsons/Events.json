@@ -5,7 +5,7 @@
         "choices": [
             {
                 "text": "Stained Glass is very useful to reveal the light.",
-                "uniques": ["Comment [The light has been revealed!]", "[-1] [Gold Per Turn]", "[2] [Faith Per Turn]"]
+                "uniques": ["Comment [The light has been revealed!]", "[-1 Gold Per Turn]", "[+2 Faith Per Turn]"]
             },
             {
                 "text": "No.",
