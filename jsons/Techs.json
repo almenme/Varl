@@ -55,7 +55,8 @@
 		        "name": "Stained Glass",
 		        "row": 5,
 		        "prerequisites": ["Metal Casting"]
-		        "quote": "'For me a stained glass window is a transparent partition between my heart and the heart of the world.'-Marc Chagall"]
+		        "quote": "'For me a stained glass window is a transparent partition between my heart and the heart of the world.'-Marc Chagall"
+				 ]
 	         }
 		}
 ]
