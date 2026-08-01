@@ -1,0 +1,23 @@
+[
+    {
+ 
+        "name": "Staining Temples",
+        "text": "Some priests have begun asking for temples to have stained glass, while sone oppose it, what will you do?",
+        "choices": [
+            {
+                "text": "The light shall be revealled for any cost!",
+                "uniques": [
+                    "Comment [The light shall be revealed, for your priests celebrate your decision!]",
+                    "[-1 Gold] from every [Copper Temple] [in all cities]",
+                    "[+2 Faith] from every [Copper Temple] [in all cities]"
+                ]
+            },
+            {
+                "text": "No.",
+                "uniques": [
+                    "Comment [There was no need for stained glass, they are too expensive for this realm.]"
+                ]
+            }
+        ]
+    }
+]
