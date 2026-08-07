@@ -49,7 +49,7 @@
 		        "name": "Stained Glass",
 		        "row": 5,
 		        "prerequisites": ["Metal Casting"]
-				"uniques": ["Triggers a [Staining Temples] event."]
+				"uniques": ["Triggers a [Staining Temples] event <for human player civs>"]
 		        "quote": "'For me a stained glass window is a transparent partition between my heart and the heart of the world.'-Marc Chagall"
 			},
 			{
