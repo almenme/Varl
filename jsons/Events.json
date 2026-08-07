@@ -8,8 +8,8 @@
                 "text": "The light shall be revealled for any cost!",
                 "uniques": [
                     "Comment [The light shall be revealed, for your priests celebrate your decision!]",
-                    "Gain [-10]% [Gold] <for 6 turns>",
-                    "Gain [+15]% [Faith] <for 7 turns>"
+                    "Gain [-10] [Gold] <every 1 turns>",
+                    "Gain [+15] [Faith] <every 1 turns>"
                 ]
             },
             {
