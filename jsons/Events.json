@@ -8,9 +8,9 @@
                 "text": "The light shall be revealled for any cost!",
                 "uniques": [
                     "Comment [The light shall be revealed, for your priests celebrate your decision!]",
-                    "Gain a free [Stained Copper Temple] [in all cities] <if [Copper Temple] is constructed>",
-                    "Gain a free [Stained Silver Temple] [in all cities] <if [Silver Temple] is constructed>",
-                    "Gain a free [Stained Gold Temple] [in all cities] <if [Gold Temple] is constructed>"
+                    "Gain a free [Stained Copper Temple] [in this city] <if [Copper Temple] is constructed>",
+                    "Gain a free [Stained Silver Temple] [in this city] <if [Silver Temple] is constructed>",
+                    "Gain a free [Stained Gold Temple] [in this city] <if [Gold Temple] is constructed>"
                 ]
             },
             {
