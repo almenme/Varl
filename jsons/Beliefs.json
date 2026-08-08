@@ -7,10 +7,10 @@
     {
       "name": "Humbleness",
       "type": "Follower",
-      "uniques": "[+1 Happiness] [in all cities]", "Remove [Copper Temple] [in all cities]", "Remove [Silver Temple] [in all cities]", 
-      "Remove [Gold Temple] [in all cities]",
-      "Remove [Stained Copper Temple] [in all cities]",
-      "Remove [Stained Silver Temple] [in all cities]",
-      "Remove [Stained Gold Temple] [in all cities]"
+      "uniques": "[+1 Happiness] [in all cities]", "Removes [Copper Temple] [in all cities]", "Removes [Silver Temple] [in all cities]", 
+      "Removes [Gold Temple] [in all cities]",
+      "Removes [Stained Copper Temple] [in all cities]",
+      "Removes [Stained Silver Temple] [in all cities]",
+      "Removes [Stained Gold Temple] [in all cities]"
     }
 ] 
