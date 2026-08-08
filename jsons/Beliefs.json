@@ -2,6 +2,6 @@
    {
         "name": "Reciprocity",
         "type": "Enhancer",
-        "uniques": ["[+1 Gold] from every [1] global followers [in all cities]", "[+1 Unhappiness] from every [5] global followers [in all cities]"]
+        "uniques": ["[+1 Gold] from every [1] global followers [in all cities]", "[-1 Happiness] from every [5] global followers [in all cities]"]
     }
 ] 
