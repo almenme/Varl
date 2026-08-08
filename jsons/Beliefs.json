@@ -3,5 +3,14 @@
         "name": "Reciprocity",
         "type": "Enhancer",
         "uniques": ["[+1 Gold] from every [1] global followers [in all cities]", "[-1 Happiness] from every [5] global followers [in all cities]"]
+    },
+    {
+      "name": "Humbleness",
+      "type": "Follower",
+      "uniques": "[+1 Happiness] [in all cities]", "Remove [Copper Temple] [in all cities]", "Remove [Silver Temple] [in all cities]", 
+      "Remove [Gold Temple] [in all cities]",
+      "Remove [Stained Copper Temple] [in all cities]",
+      "Remove [Stained Silver Temple] [in all cities]",
+      "Remove [Stained Gold Temple] [in all cities]"
     }
 ] 
