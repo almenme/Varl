@@ -7,7 +7,7 @@
 	},
 	{
 		"name":"Priests",
-		"faith":4,
+		"faith":3,
 		"greatPersonPoints": {"Great Priest":3},
 		"color": [149,50,233]
 	}
