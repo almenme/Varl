@@ -1,8 +1,14 @@
 [
 	{
-		"name":"Priest",
+		"name":"Preachers",
 		"faith":4,
-		"greatPersonPoints": {"Great Prophet":3} {"Great Priest":4},
+		"greatPersonPoints": {"Great Prophet":3},
 		"color": [149,52,235]
+	},
+	{
+		"name":"Priests",
+		"faith":4,
+		"greatPersonPoints": {"Great Priest":3},
+		"color": [149,50,233]
 	}
 ]
