@@ -6,7 +6,7 @@
 		    "maintenance": 4,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Philosophy",
-		    "uniques": ["Only available <when religion is enabled>", "Unavailable <before adopting [Humbleness]>", "[+1 Happiness] [in this city]", "Consumes [1] [Copper]"]
+		    "uniques": ["Only available <when religion is enabled>", "Only available <before adopting [Humbleness]>", "[+1 Happiness] [in this city]", "Consumes [1] [Copper]"]
 	},
 	{
 		    "name": "Stained Copper Temple",
@@ -15,7 +15,7 @@
 		    "maintenance": 6,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Stained Glass",
-		    "uniques": ["Only available <when religion is enabled>", "Unavailable <before adopting [Humbleness]>", "[+1 Happiness] [in this city]", "Consumes [1] [Copper]"]
+		    "uniques": ["Only available <when religion is enabled>", "Only Available <before adopting [Humbleness]>", "[+1 Happiness] [in this city]", "Consumes [1] [Copper]"]
 	},
     {
 		    "name": "Silver Temple",
@@ -24,7 +24,7 @@
 		    "maintenance": 7,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Philosophy",
-		    "uniques": ["Only available <when religion is enabled>","Unavailable <before adopting [Humbleness]>" ,"[+2 Happiness] [in this city]", "Consumes [1] [Silver]"]
+		    "uniques": ["Only available <when religion is enabled>","Only available <before adopting [Humbleness]>" ,"[+2 Happiness] [in this city]", "Consumes [1] [Silver]"]
 	},
 	{
 		    "name": "Stained Silver Temple",
@@ -33,7 +33,7 @@
 		    "maintenance": 10,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Stained Glass",
-		    "uniques": ["Only available <when religion is enabled>", "Unavailable <before adopting [Humbleness]>", "[+2 Happiness] [in this city]", "Consumes [1] [Silver]"]
+		    "uniques": ["Only available <when religion is enabled>", "Only available <before adopting [Humbleness]>", "[+2 Happiness] [in this city]", "Consumes [1] [Silver]"]
 	},
     {
 		    "name": "Gold Temple",
@@ -42,7 +42,7 @@
 		    "maintenance": 11,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Philosophy",
-		    "uniques": ["Only available <when religion is enabled>", "Unavailable <before adopting [Humbleness]>","[+3 Happiness] [in this city]", "Consumes [1] [Gold Ore]"]
+		    "uniques": ["Only available <when religion is enabled>", "Only available <before adopting [Humbleness]>","[+3 Happiness] [in this city]", "Consumes [1] [Gold Ore]"]
 	 },
 	 {
 		    "name": "Stained Gold Temple",
@@ -51,7 +51,7 @@
 		    "maintenance": 13,
 		    "hurryCostModifier": 25,
 		    "requiredTech": "Stained Glass",
-		    "uniques": ["Only available <when religion is enabled>", "Unavailable <before adopting [Humbleness]>","[+3 Happiness] [in this city]", "Consumes [1] [Gold Ore]"]
+		    "uniques": ["Only available <when religion is enabled>", "Only available <before adopting [Humbleness]>","[+3 Happiness] [in this city]", "Consumes [1] [Gold Ore]"]
 	 }
 ]
 
